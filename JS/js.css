@@ -20,15 +20,14 @@ canvas {
 }
 
 .fizzbox {
-    background-color: lightcyan;
+    background-color: skyblue;
     font-size: 1.3em;
 }
 .buzzbox {
-    background-color: lightgoldenrodyellow;
+    background-color: indianred;
     font-size: 1.3em;
 }
 .fizzbuzzbox {
-    background-color: darkseagreen;
-    color: white;
+    background: linear-gradient(to bottom, skyblue 20%, indianred 100%);
     font-size: 2em;
 }
